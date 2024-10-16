@@ -1,5 +1,3 @@
-# MyERC20Token
-
 ## Overview
 
 This is a basic implementation of an ERC-20 token in Solidity, following the widely used Ethereum token standard. The contract supports common functionalities such as transferring tokens, approving third-party transfers, and querying balances.
